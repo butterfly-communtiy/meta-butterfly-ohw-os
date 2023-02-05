@@ -1,1 +1,1 @@
-Create ohw ultra version hardware Linux-based system. Support TrustZone (OP-TEE OS). 
+Create butterfly ohw pro and ultra version Linux-based system.
