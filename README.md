@@ -1,1 +1,1 @@
-Create butterfly ohw pro and ultra version Linux-based system.
+Create butterfly ohw ultra version Linux-based operating system.
